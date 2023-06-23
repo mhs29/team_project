@@ -10,3 +10,5 @@ from main origin
 from main origin again
 
 from main origin nexttime
+
+from local main
