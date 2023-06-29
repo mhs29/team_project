@@ -16,3 +16,4 @@ from local main
 from main1
 new wdit
 new edit 1
+frm  main
